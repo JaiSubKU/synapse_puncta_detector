@@ -5,3 +5,5 @@ To use the plugin, download the .jar file and place it in the plugins folder of 
 
 
 To add the update site and download all of the plugins, enter the name "SynapseAnalysisPlugins", the URL "https://sites.imagej.net/SynapseAnalysisPlugins/", and "webdav:griffin_keeter" in the host box
+
+https://zenodo.org/badge/latestdoi/568293797
